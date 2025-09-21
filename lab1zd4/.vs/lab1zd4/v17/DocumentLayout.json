@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pupok_deda\\source\\repos\\lab1zd4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8865A1ED-FDFD-4D6D-8DCE-CB96AC642BBD}|lab1zd4\\lab1zd4.vcxproj|C:\\Users\\pupok_deda\\source\\repos\\lab1zd4\\lab1zd4\\lab1zd4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8865A1ED-FDFD-4D6D-8DCE-CB96AC642BBD}|lab1zd4\\lab1zd4.vcxproj|solutionrelative:lab1zd4\\lab1zd4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab1zd4.cpp",
+              "DocumentMoniker": "C:\\Users\\pupok_deda\\source\\repos\\lab1zd4\\lab1zd4\\lab1zd4.cpp",
+              "RelativeDocumentMoniker": "lab1zd4\\lab1zd4.cpp",
+              "ToolTip": "C:\\Users\\pupok_deda\\source\\repos\\lab1zd4\\lab1zd4\\lab1zd4.cpp",
+              "RelativeToolTip": "lab1zd4\\lab1zd4.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-08T09:35:51.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
