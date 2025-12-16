@@ -1,0 +1,3 @@
+﻿  8.2.cpp
+E:\rep\8.2\8.2.cpp(94,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  8.2.vcxproj -> E:\rep\8.2\x64\Debug\8.2.exe
