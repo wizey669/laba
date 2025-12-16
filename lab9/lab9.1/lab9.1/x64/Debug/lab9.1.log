@@ -1,0 +1,4 @@
+﻿  lab9.1.cpp
+E:\rep\lab9\lab9.1\lab9.1.cpp(10,9): warning C4101: v: неиспользованная локальная переменная
+E:\rep\lab9\lab9.1\lab9.1.cpp(35,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab9.1.vcxproj -> E:\rep\lab9\lab9.1\x64\Debug\lab9.1.exe
